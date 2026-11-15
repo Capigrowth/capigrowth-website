@@ -449,7 +449,7 @@ function Approach() {
           <h2>A Practical, Outcome&#8209;Driven AI Partner</h2>
           <p className="lead">
             We combine business understanding, automation, and modern AI to deliver real,
-            measurable results — not just PoCs.
+            measurable results not just PoCs.
           </p>
           <ul className="checks">
             {APPROACH.map((t) => (
